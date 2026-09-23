@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xgipr.com/sitemap.xml
